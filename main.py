@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 # Run `python main.py` in the terminal
 
 # Note: Python is lazy loaded so the first run will take a moment,
